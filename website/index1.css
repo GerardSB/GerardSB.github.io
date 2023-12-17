@@ -1,0 +1,115 @@
+* {
+  font-family: 'Ysabeau SC', sans-serif;
+  background-color: rgb(44, 39, 39);
+}
+.header {
+ 
+  color:white;
+  display:flex;
+  justify-content: space-between;
+}
+
+.me {
+  font-size: 1.5rem;
+  display: inline-block;
+  margin-left: 2rem;
+  font-weight: bold;
+
+}
+.options {
+  display: flex;
+  width: 30rem;
+  justify-content: space-around;
+  font-size: 1rem;
+  padding: 1rem;
+  list-style: none;
+  
+}
+li:hover {
+  
+  font-weight: bold;
+  text-decoration: underline;
+}
+.picture1 {
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 160px;
+}
+body {
+  background-color: black;
+  color: white;
+  margin: auto;
+  text-align: center;
+  
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align:center;
+  background-color: yellow;
+  border: none;
+  color: black;
+}
+.aboutme {
+  margin: 5rem 20rem;
+}
+.title {
+  font-size: 1.5rem;
+  text-decoration: underline;
+  
+}
+.text {
+  padding: 1rem 1rem;
+  font-size: 1.2rem;
+  line-height: 1.75rem;
+  
+ 
+}
+.projects {
+ margin: 3rem 20rem;
+}
+li {
+  list-style: none;
+  width: 392px;
+  margin: auto;
+  padding: 1rem;
+  display:inline;
+  
+  
+}
+ul {
+  text-align: center;
+  display: block;
+   
+}
+.logos {
+  text-align: center;
+  margin: 2rem 0;
+  padding-right: 2.2rem;
+}
+.linktogithub {
+  margin: 3rem;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+footer {
+  margin: 3rem;
+  font-size: 1.2rem;
+}
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
